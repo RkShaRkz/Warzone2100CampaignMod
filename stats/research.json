@@ -2339,6 +2339,41 @@
 		],
 		"statID": "Body12SUP"
 	},
+	"R-Vehicle-Body13": {
+		"iconID": "IMAGE_RES_DROIDTECH",
+		"id": "R-Vehicle-Body13",
+		"msgName": "RES_V_B13",
+		"name": "Heavy Body - Wyvern",
+		"requiredResearch": [
+			"R-Vehicle-Body09",
+			"R-Vehicle-Body10",
+			"R-Vehicle-Body11",
+			"R-Vehicle-Body12",
+			"R-Vehicle-Engine09",
+			"R-Vehicle-Armor-Heat06"
+		],
+		"researchPoints": 28800,
+		"researchPower": 450,
+		"resultComponents": [
+			"Body13SUP"
+		],
+		"statID": "Body13SUP"
+	},
+	"R-Vehicle-Body14": {
+		"iconID": "IMAGE_RES_DROIDTECH",
+		"id": "R-Vehicle-Body14",
+		"msgName": "RES_V_B14",
+		"name": "Multi Turret Body - Dragon",
+		"requiredResearch": [
+			"R-Vehicle-Body13"
+		],
+		"researchPoints": 43200,
+		"researchPower": 450,
+		"resultComponents": [
+			"Body14SUP"
+		],
+		"statID": "Body14SUP"
+	}
 	"R-Vehicle-Engine01": {
 		"iconID": "IMAGE_RES_DROIDTECH",
 		"id": "R-Vehicle-Engine01",
