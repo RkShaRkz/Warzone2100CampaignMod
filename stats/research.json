@@ -2066,7 +2066,7 @@
 		],
 		"statID": "A0RepairCentre3",
 		"subgroupIconID": "IMAGE_RES_GRPUPG"
-	,
+	},
 	"R-Struc-RprFac-Upgrade02": {
 		"iconID": "IMAGE_RES_SYSTEMTECH",
 		"id": "R-Struc-RprFac-Upgrade02",
@@ -2183,7 +2183,7 @@
 			"HeavyRepair"
 		],
 		"statID": "HeavyRepair"
-	}
+	},
 	"R-Sys-Sensor-Tower01": {
 		"iconID": "IMAGE_RES_SYSTEMTECH",
 		"id": "R-Sys-Sensor-Tower01",
@@ -2373,7 +2373,7 @@
 			"Body14SUP"
 		],
 		"statID": "Body14SUP"
-	}
+	},
 	"R-Vehicle-Engine01": {
 		"iconID": "IMAGE_RES_DROIDTECH",
 		"id": "R-Vehicle-Engine01",
