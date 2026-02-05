@@ -2352,8 +2352,8 @@
 			"R-Vehicle-Engine09",
 			"R-Vehicle-Armor-Heat06"
 		],
-		"researchPoints": 150000,
-		"researchPower": 450,
+		"researchPoints": 65535,
+		"researchPower": 4500,
 		"resultComponents": [
 			"Body13SUP"
 		],
@@ -2367,8 +2367,8 @@
 		"requiredResearch": [
 			"R-Vehicle-Body13"
 		],
-		"researchPoints": 250000,
-		"researchPower": 450,
+		"researchPoints": 65535,
+		"researchPower": 7500,
 		"resultComponents": [
 			"Body14SUP"
 		],

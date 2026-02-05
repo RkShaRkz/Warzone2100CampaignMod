@@ -64,7 +64,7 @@ const mis_alphaResearchNew = [
 	"R-Vehicle-Prop-Hover", "R-Vehicle-Metals03", "R-Vehicle-Body12", "R-Vehicle-Engine03",
 
 	// sharkmod
-	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Sys-MobileRepairTurretHvy"
+	"R-Sys-MobileRepairTurretHvy"
 ];
 
 //Basic base structures.
@@ -200,6 +200,8 @@ const mis_gammaResearchNew = [
 	"R-Vehicle-Metals09", "R-Vehicle-Engine09", "R-Defense-HvyArtMissile", "R-Wpn-Missile-Damage03",
 	"R-Wpn-Missile-ROF03", "R-Cyborg-Metals09", "R-Vehicle-Armor-Heat06", "R-Cyborg-Armor-Heat06",
 
+	// sharkmod
+	"R-Vehicle-Body13", "R-Vehicle-Body14",
 ];
 
 // Below lies all the "Classic" campaign lists. Some are just for documentation purposes
@@ -260,7 +262,7 @@ const mis_alphaResearchNewClassic = [
 	"R-Vehicle-Prop-Hover", "R-Vehicle-Metals03", "R-Vehicle-Body12",
 
 	// sharkmod
-	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Sys-MobileRepairTurretHvy"
+	"R-Sys-MobileRepairTurretHvy"
 ];
 
 //BETA 2-A additional research
@@ -531,6 +533,9 @@ const mis_gammaResearchNewClassic = [
 	"R-Cyborg-Armor-Heat06", "R-Vehicle-Engine09",  "R-Wpn-HvArtMissile", "R-Defense-HvyArtMissile",
 	"R-Wpn-Missile-Damage03", "R-Wpn-Missile-ROF03", "R-Wpn-RailGun03",
 	"R-Defense-Rail3", "R-Defense-WallTower-Rail3",
+
+	// sharkmod
+	"R-Vehicle-Body13", "R-Vehicle-Body14",
 ];
 
 // ...
