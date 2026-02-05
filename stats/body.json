@@ -290,15 +290,15 @@
 	"Body13SUP": {
 		"armourHeat": 28,
 		"armourKinetic": 28,
-		"buildPoints": 470,
-		"buildPower": 86,
+		"buildPoints": 1000,
+		"buildPower": 250,
 		"class": "Droids",
 		"designable": 1,
 		"hitpoints": 350,
 		"id": "Body13SUP",
 		"model": "drmbod13.pie",
 		"name": "Wyvern",
-		"powerOutput": 25000,
+		"powerOutput": 35000,
 		"propulsionExtraModels": {
 			"HalfTrack": {
 				"left": "prhhtr3.pie"
@@ -356,8 +356,8 @@
 	"Body14SUP": {
 		"armourHeat": 30,
 		"armourKinetic": 30,
-		"buildPoints": 500,
-		"buildPower": 90,
+		"buildPoints": 1500,
+		"buildPower": 375,
 		"class": "Droids",
 		"designable": 1,
 		"hitpoints": 350,
