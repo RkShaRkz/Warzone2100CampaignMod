@@ -303,25 +303,49 @@
 			"HalfTrack": {
 				"left": "prhhtr3.pie"
 			},
-			"Helicopter": {
-				"left": "prhheli1.pie",
-				"still": "heavyheli_rotor_stationary.pie",
-				"moving": "fxheli12.pie"
+			"HalfTrack02": {
+				"left": "prhhtr3.pie"
 			},
-			"Naval": {
-				"left": "prhnaval1.pie"
+			"HalfTrack03": {
+				"left": "prhhtr3.pie"
 			},
 			"V-Tol": {
+				"left": "prhvtl1.pie",
+				"moving": "fxvtl12.pie"
+			},
+			"V-Tol02": {
+				"left": "prhvtl1.pie",
+				"moving": "fxvtl12.pie"
+			},
+			"V-Tol03": {
 				"left": "prhvtl1.pie",
 				"moving": "fxvtl12.pie"
 			},
 			"hover01": {
 				"left": "prhhov1.pie"
 			},
+			"hover02": {
+				"left": "prhhov1.pie"
+			},
+			"hover03": {
+				"left": "prhhov1.pie"
+			},
 			"tracked01": {
 				"left": "prhtrk3.pie"
 			},
+			"tracked02": {
+				"left": "prhtrk3.pie"
+			},
+			"tracked03": {
+				"left": "prhtrk3.pie"
+			},
 			"wheeled01": {
+				"left": "prhwhl1.pie"
+			},
+			"wheeled02": {
+				"left": "prhwhl1.pie"
+			},
+			"wheeled03": {
 				"left": "prhwhl1.pie"
 			}
 		},
@@ -345,25 +369,49 @@
 			"HalfTrack": {
 				"left": "prshtr4.pie"
 			},
-			"Helicopter": {
-				"left": "prsheli1.pie",
-				"still": "superheavyheli_rotor_stationary.pie",
-				"moving": "fxheli12.pie"
+			"HalfTrack02": {
+				"left": "prshtr4.pie"
 			},
-			"Naval": {
-				"left": "prhnaval1.pie"
+			"HalfTrack03": {
+				"left": "prshtr4.pie"
 			},
 			"V-Tol": {
+				"left": "prsvtl1.pie",
+				"moving": "fxvtl12.pie"
+			},
+			"V-Tol02": {
+				"left": "prsvtl1.pie",
+				"moving": "fxvtl12.pie"
+			},
+			"V-Tol03": {
 				"left": "prsvtl1.pie",
 				"moving": "fxvtl12.pie"
 			},
 			"hover01": {
 				"left": "prshov1.pie"
 			},
+			"hover02": {
+				"left": "prshov1.pie"
+			},
+			"hover03": {
+				"left": "prshov1.pie"
+			},
 			"tracked01": {
 				"left": "prstrk4.pie"
 			},
+			"tracked02": {
+				"left": "prstrk4.pie"
+			},
+			"tracked03": {
+				"left": "prstrk4.pie"
+			},
 			"wheeled01": {
+				"left": "prswhl1.pie"
+			},
+			"wheeled02": {
+				"left": "prswhl1.pie"
+			},
+			"wheeled03": {
 				"left": "prswhl1.pie"
 			}
 		},
