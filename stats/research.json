@@ -9610,7 +9610,7 @@
 		"name": "Cannon Fortress",
 		"requiredResearch": [
 			"R-Wpn-Cannon-Damage05",
-			"R-Defense-WallUpgrade05"
+			"R-Defense-WallUpgrade06"
 		],
 		"researchPoints": 8400,
 		"researchPower": 262,
@@ -9642,7 +9642,7 @@
 		"name": "Heavy Rocket Bastion",
 		"requiredResearch": [
 			"R-Wpn-RocketSlow-Accuracy02",
-			"R-Defense-WallUpgrade05",
+			"R-Defense-WallUpgrade06",
 			"R-Wpn-Rocket-Damage08"
 		],
 		"researchPoints": 12000,
