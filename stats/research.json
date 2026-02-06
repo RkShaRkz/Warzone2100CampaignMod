@@ -6700,6 +6700,21 @@
 		],
 		"statID": "GuardTower-Rail1"
 	},
+	"R-Defense-HardcreteGate": {
+		"iconID": "IMAGE_RES_DEFENCE",
+		"id": "R-Defense-HardcreteGate",
+		"msgName": "RES_DF_HCW2",
+		"name": "Hardcrete Gate",
+		"requiredResearch": [
+			"R-Defense-HardcreteWall"
+		],
+		"researchPoints": 600,
+		"researchPower": 18,
+		"resultStructures": [
+			"A0HardcreteMk1Gate"
+		],
+		"statID": "A0HardcreteMk1Gate"
+	},
 	"R-Defense-HvyA-Trocket": {
 		"iconID": "IMAGE_RES_DEFENCE",
 		"id": "R-Defense-HvyA-Trocket",

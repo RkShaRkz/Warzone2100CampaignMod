@@ -141,6 +141,9 @@ const mis_betaResearchNew = [
 	"R-Wpn-Howitzer-ROF03", "R-Vehicle-Armor-Heat03", "R-Cyborg-Armor-Heat03",
 
 	// 11
+
+	// sharkmod
+	"R-Defense-HardcreteGate"
 ];
 
 //This is used for giving allies in Gamma technology (3-b/3-2/3-c)
@@ -385,6 +388,9 @@ const mis_betaResearchNewClassic = [
 	"R-Vehicle-Engine05", "R-Vehicle-Engine06", "R-Wpn-HvyHowitzer",
 	"R-Defense-HvyHowitzer", "R-Wpn-Howitzer-Damage03",
 	// 11
+
+	// sharkmod
+	"R-Defense-HardcreteGate"
 ];
 
 //GAMMA 3-A additional research
