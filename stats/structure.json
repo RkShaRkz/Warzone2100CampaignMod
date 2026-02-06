@@ -2945,5 +2945,97 @@
 		"thermal": 12,
 		"type": "DEFENSE",
 		"width": 3
+	},
+	"X-Super-Cannon": {
+		"armour": 15,
+		"breadth": 2,
+		"buildPoints": 3000,
+		"buildPower": 1500,
+		"combinesWithWall": true,
+		"height": 2,
+		"hitpoints": 3200,
+		"id": "X-Super-Cannon",
+		"name": "Cannon Fortress",
+		"resistance": 100,
+		"sensorID": "FortressSensor",
+		"strength": "HARD",
+		"structureModel": [
+			"STWPFCAN.PIE"
+		],
+		"thermal": 15,
+		"type": "FORTRESS",
+		"weapons": [
+			"CannonSuper"
+		],
+		"width": 2
+	},
+	"X-Super-MassDriver": {
+		"armour": 15,
+		"breadth": 2,
+		"buildPoints": 3000,
+		"buildPower": 2700,
+		"combinesWithWall": true,
+		"height": 3,
+		"hitpoints": 3200,
+		"id": "X-Super-MassDriver",
+		"name": "Mass Driver Fortress",
+		"resistance": 100,
+		"sensorID": "FortressSensor",
+		"strength": "HARD",
+		"structureModel": [
+			"STWPFCAN.PIE"
+		],
+		"thermal": 15,
+		"type": "FORTRESS",
+		"weapons": [
+			"MassDriver"
+		],
+		"width": 2
+	},
+	"X-Super-Missile": {
+		"armour": 15,
+		"breadth": 2,
+		"buildPoints": 3000,
+		"buildPower": 2400,
+		"combinesWithWall": true,
+		"height": 3,
+		"hitpoints": 3200,
+		"id": "X-Super-Missile",
+		"name": "Missile Fortress",
+		"resistance": 100,
+		"sensorID": "FortressSensor",
+		"strength": "HARD",
+		"structureModel": [
+			"STWPFCAN.PIE"
+		],
+		"thermal": 15,
+		"type": "FORTRESS",
+		"weapons": [
+			"MissileSuper"
+		],
+		"width": 2
+	},
+	"X-Super-Rocket": {
+		"armour": 15,
+		"breadth": 2,
+		"buildPoints": 3000,
+		"buildPower": 1875,
+		"combinesWithWall": true,
+		"height": 3,
+		"hitpoints": 3200,
+		"id": "X-Super-Rocket",
+		"name": "Heavy Rocket Bastion",
+		"resistance": 100,
+		"sensorID": "FortressSensor",
+		"strength": "HARD",
+		"structureModel": [
+			"STWPFCAN.PIE"
+		],
+		"thermal": 15,
+		"type": "FORTRESS",
+		"weapons": [
+			"RocketSuper"
+		],
+		"width": 2
 	}
 }

@@ -7,7 +7,7 @@
   "minVersionSupported": "4.5.2",
   "maxVersionTested": "4.6.1",
   "description": {
-     "en": "Sharkmod just adds a few things to the vanilla campaign, and that's it"
+     "en": "Sharkmod just adds a few things from multiplayer to the vanilla campaign, and that's it"
   },
   "updatesUrl": "https://github.com/DARwins1/fractured-kingdom/releases/latest",
   "campaigns": [

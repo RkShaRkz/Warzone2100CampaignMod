@@ -196,5 +196,49 @@
 			"Enables Hardcrete gates",
 			"Defensive Strength: Medium"
 		]
+	},
+	"RES_EMP_CAN": {
+		"id": "RES_EMP_CAN",
+		"imdName": "MICAPSUL.pie",
+		"sequenceName": "res_struttech.ogg",
+		"text": [
+			"New Defensive Structure Available",
+			"Uses advanced cannon technology",
+			"Best Targets : Vehicles",
+			"Defensive Strength : High"
+		]
+	},
+	"RES_EMP_MSL": {
+		"id": "RES_EMP_MSL",
+		"imdName": "MICAPSUL.pie",
+		"sequenceName": "res_struttech.ogg",
+		"text": [
+			"New Defensive Structure Available",
+			"Uses advanced missile gun technology",
+			"Best Targets : Vehicles",
+			"Defensive Strength : High"
+		]
+	},
+	"RES_EMP_RKT": {
+		"id": "RES_EMP_RKT",
+		"imdName": "MICAPSUL.pie",
+		"sequenceName": "res_struttech.ogg",
+		"text": [
+			"New Defensive Structure Available",
+			"Uses advanced rocket gun technology",
+			"Best Targets : Vehicles",
+			"Defensive Strength : High"
+		]
+	},
+	"RES_EMP_MD": {
+		"id": "RES_EMP_MD",
+		"imdName": "MICAPSUL.pie",
+		"sequenceName": "res_struttech.ogg",
+		"text": [
+			"New Defensive Structure Available",
+			"Uses advanced mass driver railgun technology",
+			"Best Targets : Vehicles",
+			"Defensive Strength : High"
+		]
 	}
 }

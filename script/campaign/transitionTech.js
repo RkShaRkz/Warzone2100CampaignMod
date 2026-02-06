@@ -143,7 +143,7 @@ const mis_betaResearchNew = [
 	// 11
 
 	// sharkmod
-	"R-Defense-HardcreteGate"
+	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket"
 ];
 
 //This is used for giving allies in Gamma technology (3-b/3-2/3-c)
@@ -204,7 +204,7 @@ const mis_gammaResearchNew = [
 	"R-Wpn-Missile-ROF03", "R-Cyborg-Metals09", "R-Vehicle-Armor-Heat06", "R-Cyborg-Armor-Heat06",
 
 	// sharkmod
-	"R-Vehicle-Body13", "R-Vehicle-Body14",
+	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver"
 ];
 
 // Below lies all the "Classic" campaign lists. Some are just for documentation purposes
@@ -390,7 +390,7 @@ const mis_betaResearchNewClassic = [
 	// 11
 
 	// sharkmod
-	"R-Defense-HardcreteGate"
+	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket"
 ];
 
 //GAMMA 3-A additional research
@@ -541,7 +541,7 @@ const mis_gammaResearchNewClassic = [
 	"R-Defense-Rail3", "R-Defense-WallTower-Rail3",
 
 	// sharkmod
-	"R-Vehicle-Body13", "R-Vehicle-Body14",
+	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver"
 ];
 
 // ...

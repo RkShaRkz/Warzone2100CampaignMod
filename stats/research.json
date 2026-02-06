@@ -9602,5 +9602,71 @@
 			"RailGun3Mk1"
 		],
 		"statID": "RailGun3Mk1"
+	},
+	"R-Defense-Super-Cannon": {
+		"iconID": "IMAGE_RES_DEFENCE",
+		"id": "R-Defense-Super-Cannon",
+		"msgName": "RES_EMP_CAN",
+		"name": "Cannon Fortress",
+		"requiredResearch": [
+			"R-Wpn-Cannon-Damage05",
+			"R-Defense-WallUpgrade05"
+		],
+		"researchPoints": 8400,
+		"researchPower": 262,
+		"resultStructures": [
+			"X-Super-Cannon"
+		],
+		"statID": "X-Super-Cannon"
+	},
+	"R-Defense-Super-Missile": {
+		"iconID": "IMAGE_RES_DEFENCE",
+		"id": "R-Defense-Super-Missile",
+		"msgName": "RES_EMP_MSL",
+		"name": "Missile Fortress",
+		"requiredResearch": [
+			"R-Defense-WallUpgrade10",
+			"R-Wpn-Missile-ROF03"
+		],
+		"researchPoints": 50000,
+		"researchPower": 450,
+		"resultStructures": [
+			"X-Super-Missile"
+		],
+		"statID": "X-Super-Missile"
+	},
+	"R-Defense-Super-Rocket": {
+		"iconID": "IMAGE_RES_DEFENCE",
+		"id": "R-Defense-Super-Rocket",
+		"msgName": "RES_EMP_RKT",
+		"name": "Heavy Rocket Bastion",
+		"requiredResearch": [
+			"R-Wpn-RocketSlow-Accuracy02",
+			"R-Defense-WallUpgrade05",
+			"R-Wpn-Rocket-Damage08"
+		],
+		"researchPoints": 12000,
+		"researchPower": 375,
+		"resultStructures": [
+			"X-Super-Rocket"
+		],
+		"statID": "X-Super-Rocket"
+	},
+	"R-Defense-MassDriver": {
+		"iconID": "IMAGE_RES_DEFENCE",
+		"id": "R-Defense-MassDriver",
+		"msgName": "RES_EMP_MD",
+		"name": "Mass Driver Fortress",
+		"requiredResearch": [
+			"R-Wpn-RailGun03",
+			"R-Wpn-Rail-ROF03",
+			"R-Defense-WallUpgrade10"
+		],
+		"researchPoints": 50000,
+		"researchPower": 450,
+		"resultStructures": [
+			"X-Super-MassDriver"
+		],
+		"statID": "X-Super-MassDriver"
 	}
 }
