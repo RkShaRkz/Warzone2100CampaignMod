@@ -3081,5 +3081,27 @@
 			"Howitzer-Incendiary"
 		],
 		"width": 1
+	},
+	"PillBox-Cannon6": {
+		"armour": 20,
+		"breadth": 1,
+		"buildPoints": 925,
+		"buildPower": 400,
+		"height": 1,
+		"hitpoints": 500,
+		"id": "PillBox-Cannon6",
+		"name": "Twin Assault Cannon Bunker",
+		"resistance": 150,
+		"sensorID": "DefaultSensor1Mk1",
+		"strength": "BUNKER",
+		"structureModel": [
+			"Blcanpil.pie"
+		],
+		"thermal": 20,
+		"type": "DEFENSE",
+		"weapons": [
+			"Cannon6TwinAslt"
+		],
+		"width": 1
 	}
 }

@@ -284,5 +284,16 @@
 			"Best Targets: Base structures, infantry, wheeled vehicles",
 			"Body Points: Very Low"
 		]
+	},
+	"RES_W_CN6_T_A": {
+		"id": "RES_W_CN6_T_A",
+		"imdName": "MICAPSUL.PIE",
+		"sequenceName": "res_weapons.ogg",
+		"text": [
+			"New Weapon Turret Available",
+			"76mm twin-barrel automatic-cannon",
+			"Best Targets: Vehicles",
+			"Body Points: High"
+		]
 	}
 }

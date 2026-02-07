@@ -3802,6 +3802,22 @@
 		],
 		"statID": "AASite-QuadRotMg"
 	},
+	"R-Defense-Cannon6": {
+		"iconID": "IMAGE_RES_DEFENCE",
+		"id": "R-Defense-Cannon6",
+		"msgName": "RES_DEF_RotMG",
+		"name": "Twin Assault Cannon Bunker",
+		"requiredResearch": [
+			"R-Defense-WallUpgrade04",
+			"R-Wpn-Cannon6TwinAslt"
+		],
+		"researchPoints": 4200,
+		"researchPower": 237,
+		"resultStructures": [
+			"PillBox-Cannon6"
+		],
+		"statID": "PillBox-Cannon6"
+	},
 	"R-Defense-Emplacement-HPVcannon": {
 		"iconID": "IMAGE_RES_DEFENCE",
 		"id": "R-Defense-Emplacement-HPVcannon",
@@ -5469,6 +5485,27 @@
 			"Cannon5Vulcan-VTOL"
 		],
 		"statID": "Cannon5VulcanMk1"
+	},
+	"R-Wpn-Cannon6TwinAslt": {
+		"iconID": "IMAGE_RES_WEAPONTECH",
+		"id": "R-Wpn-Cannon6TwinAslt",
+		"msgName": "RES_W_CN6_T_A",
+		"name": "Twin Assault Cannon",
+		"redComponents": [
+			"Cannon5VulcanMk1"
+		],
+		"requiredResearch": [
+			"R-Wpn-Cannon5",
+			"R-Struc-Research-Upgrade06",
+			"R-Wpn-Cannon-Damage07",
+			"R-Wpn-Cannon-ROF04"
+		],
+		"researchPoints": 11050,
+		"researchPower": 325,
+		"resultComponents": [
+			"Cannon6TwinAslt"
+		],
+		"statID": "Cannon6TwinAslt"
 	},
 	"R-Wpn-Flame2": {
 		"iconID": "IMAGE_RES_WEAPONTECH",

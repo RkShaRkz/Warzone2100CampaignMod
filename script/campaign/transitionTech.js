@@ -206,7 +206,8 @@ const mis_gammaResearchNew = [
 	"R-Wpn-Missile-ROF03", "R-Cyborg-Metals09", "R-Vehicle-Armor-Heat06", "R-Cyborg-Armor-Heat06",
 
 	// sharkmod
-	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver"
+	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver",
+	"R-Wpn-Cannon6TwinAslt", "R-Defense-Cannon6"
 ];
 
 // Below lies all the "Classic" campaign lists. Some are just for documentation purposes
@@ -545,7 +546,8 @@ const mis_gammaResearchNewClassic = [
 	"R-Defense-Rail3", "R-Defense-WallTower-Rail3",
 
 	// sharkmod
-	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver"
+	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver",
+	"R-Wpn-Cannon6TwinAslt", "R-Defense-Cannon6"
 ];
 
 // ...
