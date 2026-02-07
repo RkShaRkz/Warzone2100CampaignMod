@@ -3037,5 +3037,49 @@
 			"RocketSuper"
 		],
 		"width": 2
+	},
+	"Emplacement-MortarPit-Incendiary": {
+		"armour": 10,
+		"breadth": 1,
+		"buildPoints": 525,
+		"buildPower": 225,
+		"height": 1,
+		"hitpoints": 100,
+		"id": "Emplacement-MortarPit-Incendiary",
+		"name": "Incendiary Mortar Pit",
+		"resistance": 150,
+		"sensorID": "DefaultSensor1Mk1",
+		"strength": "MEDIUM",
+		"structureModel": [
+			"BLMRTPIT.PIE"
+		],
+		"thermal": 10,
+		"type": "DEFENSE",
+		"weapons": [
+			"Mortar-Incendiary"
+		],
+		"width": 1
+	},
+	"Emplacement-Howitzer-Incendiary": {
+		"armour": 10,
+		"breadth": 1,
+		"buildPoints": 750,
+		"buildPower": 475,
+		"height": 1,
+		"hitpoints": 200,
+		"id": "Emplacement-Howitzer-Incendiary",
+		"name": "Incendiary Howitzer Emplacement",
+		"resistance": 150,
+		"sensorID": "DefaultSensor1Mk1",
+		"strength": "HARD",
+		"structureModel": [
+			"Blhowmnt.PIE"
+		],
+		"thermal": 10,
+		"type": "DEFENSE",
+		"weapons": [
+			"Howitzer-Incendiary"
+		],
+		"width": 1
 	}
 }

@@ -143,7 +143,9 @@ const mis_betaResearchNew = [
 	// 11
 
 	// sharkmod
-	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket"
+	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket",
+	"R-Wpn-Mortar-Incendiary", "R-Defense-MortarPit-Incendiary",
+	"R-Wpn-Howitzer-Incendiary", "R-Defense-Howitzer-Incendiary"
 ];
 
 //This is used for giving allies in Gamma technology (3-b/3-2/3-c)
@@ -390,7 +392,9 @@ const mis_betaResearchNewClassic = [
 	// 11
 
 	// sharkmod
-	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket"
+	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket",
+	"R-Wpn-Mortar-Incendiary", "R-Defense-MortarPit-Incendiary",
+	"R-Wpn-Howitzer-Incendiary", "R-Defense-Howitzer-Incendiary"
 ];
 
 //GAMMA 3-A additional research
