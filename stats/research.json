@@ -4404,6 +4404,13 @@
 			{
 				"class": "Repair",
 				"filterParameter": "Id",
+				"filterValue": "HeavyRepair",
+				"parameter": "RepairPoints",
+				"value": 75
+			},
+			{
+				"class": "Repair",
+				"filterParameter": "Id",
 				"filterValue": "LightRepair1",
 				"parameter": "RepairPoints",
 				"value": 50
@@ -4427,6 +4434,13 @@
 				"class": "Building",
 				"parameter": "RepairPoints",
 				"value": 50
+			},
+			{
+				"class": "Repair",
+				"filterParameter": "Id",
+				"filterValue": "HeavyRepair",
+				"parameter": "RepairPoints",
+				"value": 75
 			},
 			{
 				"class": "Repair",
@@ -4455,6 +4469,13 @@
 				"class": "Building",
 				"parameter": "RepairPoints",
 				"value": 50
+			},
+			{
+				"class": "Repair",
+				"filterParameter": "Id",
+				"filterValue": "HeavyRepair",
+				"parameter": "RepairPoints",
+				"value": 75
 			},
 			{
 				"class": "Repair",
