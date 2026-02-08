@@ -3103,5 +3103,28 @@
 			"Cannon6TwinAslt"
 		],
 		"width": 1
+	},
+	"WallTower-TwinAssaultGun": {
+		"armour": 20,
+		"breadth": 1,
+		"buildPoints": 600,
+		"buildPower": 300,
+		"combinesWithWall": true,
+		"height": 2,
+		"hitpoints": 650,
+		"id": "WallTower-TwinAssaultGun",
+		"name": "Twin Assault Gun Hardpoint",
+		"resistance": 150,
+		"sensorID": "DefaultSensor1Mk1",
+		"strength": "HARD",
+		"structureModel": [
+			"BLGUARD1.pie"
+		],
+		"thermal": 20,
+		"type": "DEFENSE",
+		"weapons": [
+			"MG5TWINROTARY"
+		],
+		"width": 1
 	}
 }

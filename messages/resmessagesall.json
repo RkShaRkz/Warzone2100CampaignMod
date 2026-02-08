@@ -295,5 +295,27 @@
 			"Best Targets: Vehicles",
 			"Body Points: High"
 		]
+	},
+	"RES_WT_TWINAGHP": {
+		"id": "RES_WT_TWINAGHP",
+		"imdName": "MICAPSUL.pie",
+		"sequenceName": "res_struttech.ogg",
+		"text": [
+			"Hardpoint Twin Assault Gun Available",
+			"Twin Multi-barrel, rapid-fire machinegun",
+			"Best Targets: Infantry, base structures, wheeled vehicles",
+			"Replaces all machineguns"
+		]
+	},
+	"RES_WT_TWINAGUN": {
+		"id": "RES_WT_TWINAGUN",
+		"imdName": "MICAPSUL.pie",
+		"sequenceName": "res_weapons.ogg",
+		"text": [
+			"New Weapon Turret Available",
+			"Twin Multi-barrel, rapid-fire machinegun",
+			"Best Targets: Infantry, base structures, wheeled vehicles",
+			"Replaces all machineguns"
+		]
 	}
 }

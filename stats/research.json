@@ -1544,6 +1544,25 @@
 		],
 		"statID": "GuardTower6"
 	},
+	"R-Defense-WallTower-TwinAGun": {
+		"iconID": "IMAGE_RES_DEFENCE",
+		"id": "R-Defense-WallTower-TwinAGun",
+		"msgName": "RES_WT_TWINAGHP",
+		"name": "Twin Assault Gun Hardpoint",
+		"redStructures": [
+			"Wall-RotMg"
+		],
+		"requiredResearch": [
+			"R-Wpn-MG5",
+			"R-Defense-WallUpgrade10"
+		],
+		"researchPoints": 6400,
+		"researchPower": 350,
+		"resultStructures": [
+			"WallTower-TwinAssaultGun"
+		],
+		"statID": "WallTower-TwinAssaultGun"
+	},
 	"R-Defense-WallTower01": {
 		"iconID": "IMAGE_RES_DEFENCE",
 		"id": "R-Defense-WallTower01",
@@ -6201,6 +6220,26 @@
 			"MG4ROTARYMk1"
 		],
 		"statID": "MG4ROTARYMk1"
+	},
+	"R-Wpn-MG5": {
+		"iconID": "IMAGE_RES_WEAPONTECH",
+		"id": "R-Wpn-MG5",
+		"msgName": "RES_WT_TWINAGUN",
+		"name": "Twin Assault Gun",
+		"redComponents": [
+			"MG4ROTARYMk1"
+		],
+		"requiredResearch": [
+			"R-Struc-Research-Upgrade06",
+			"R-Wpn-MG4",
+			"R-Wpn-MG-Damage10"
+		],
+		"researchPoints": 14400,
+		"researchPower": 525,
+		"resultComponents": [
+			"MG5TWINROTARY"
+		],
+		"statID": "MG5TWINROTARY"
 	},
 	"R-Wpn-Mortar-Acc02": {
 		"iconID": "IMAGE_RES_WEAPONTECH",
