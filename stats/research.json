@@ -648,6 +648,29 @@
 		"subgroupIconID": "IMAGE_RES_GRPUPG",
 		"techCode": 1
 	},
+	"R-Cyborg-Armor-Heat09": {
+		"iconID": "IMAGE_RES_CYBORGTECH",
+		"id": "R-Cyborg-Armor-Heat09",
+		"imdName": "icamrhot.pie",
+		"name": "Cyborg Superdense Thermal Armor Mk3",
+		"category": "Cyborg Thermal",
+		"requiredResearch": [
+			"R-Cyborg-Armor-Heat08"
+		],
+		"researchPoints": 18000,
+		"researchPower": 1250,
+		"results": [
+			{
+				"class": "Body",
+				"filterParameter": "BodyClass",
+				"filterValue": "Cyborgs",
+				"parameter": "Thermal",
+				"value": 45
+			}
+		],
+		"subgroupIconID": "IMAGE_RES_GRPUPG",
+		"techCode": 1
+	},
 	"R-Vehicle-Metals01": {
 		"iconID": "IMAGE_RES_DROIDTECH",
 		"id": "R-Vehicle-Metals01",
@@ -1130,6 +1153,36 @@
 				"class": "Body",
 				"filterParameter": "BodyClass",
 				"filterValue": "Droids",
+				"parameter": "Thermal",
+				"value": 40
+			}
+		],
+		"subgroupIconID": "IMAGE_RES_GRPUPG",
+		"techCode": 1
+	},
+	"R-Vehicle-Armor-Heat09": {
+		"iconID": "IMAGE_RES_DROIDTECH",
+		"id": "R-Vehicle-Armor-Heat09",
+		"imdName": "icamrhot.pie",
+		"name": "Vehicle Superdense Thermal Armor Mk3",
+		"category": "Tank Thermal",
+		"requiredResearch": [
+			"R-Vehicle-Armor-Heat08"
+		],
+		"researchPoints": 21000,
+		"researchPower": 1750,
+		"results": [
+			{
+				"class": "Body",
+				"filterParameter": "BodyClass",
+				"filterValue": "Droids",
+				"parameter": "Thermal",
+				"value": 40
+			},
+			{
+				"class": "Body",
+				"filterParameter": "BodyClass",
+				"filterValue": "Transports",
 				"parameter": "Thermal",
 				"value": 40
 			}
