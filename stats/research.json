@@ -6621,6 +6621,96 @@
 		"subgroupIconID": "IMAGE_RES_GRPDAM",
 		"techCode": 1
 	},
+	"R-Wpn-Rocket-Damage07": {
+		"iconID": "IMAGE_RES_WEAPONTECH",
+		"id": "R-Wpn-Rocket-Damage07",
+		"msgName": "RES_W_RK_D4",
+		"name": "HESH Rocket Warhead",
+		"category": "Rocket Damage",
+		"requiredResearch": [
+			"R-Wpn-Rocket-Damage06"
+		],
+		"researchPoints": 8400,
+		"researchPower": 262,
+		"results": [
+			{
+				"class": "Weapon",
+				"filterParameter": "ImpactClass",
+				"filterValue": "ROCKET",
+				"parameter": "Damage",
+				"value": 25
+			},
+			{
+				"class": "Weapon",
+				"filterParameter": "ImpactClass",
+				"filterValue": "ROCKET",
+				"parameter": "RadiusDamage",
+				"value": 25
+			}
+		],
+		"statID": "Rocket-LtA-T",
+		"subgroupIconID": "IMAGE_RES_GRPDAM"
+	},
+	"R-Wpn-Rocket-Damage08": {
+		"iconID": "IMAGE_RES_WEAPONTECH",
+		"id": "R-Wpn-Rocket-Damage08",
+		"name": "HESH Rocket Warhead Mk2",
+		"category": "Rocket Damage",
+		"requiredResearch": [
+			"R-Wpn-Rocket-Damage07"
+		],
+		"researchPoints": 9600,
+		"researchPower": 300,
+		"results": [
+			{
+				"class": "Weapon",
+				"filterParameter": "ImpactClass",
+				"filterValue": "ROCKET",
+				"parameter": "Damage",
+				"value": 25
+			},
+			{
+				"class": "Weapon",
+				"filterParameter": "ImpactClass",
+				"filterValue": "ROCKET",
+				"parameter": "RadiusDamage",
+				"value": 25
+			}
+		],
+		"statID": "Rocket-LtA-T",
+		"subgroupIconID": "IMAGE_RES_GRPDAM",
+		"techCode": 1
+	},
+	"R-Wpn-Rocket-Damage09": {
+		"iconID": "IMAGE_RES_WEAPONTECH",
+		"id": "R-Wpn-Rocket-Damage09",
+		"name": "HESH Rocket Warhead Mk3",
+		"category": "Rocket Damage",
+		"requiredResearch": [
+			"R-Wpn-Rocket-Damage08"
+		],
+		"researchPoints": 10800,
+		"researchPower": 337,
+		"results": [
+			{
+				"class": "Weapon",
+				"filterParameter": "ImpactClass",
+				"filterValue": "ROCKET",
+				"parameter": "Damage",
+				"value": 25
+			},
+			{
+				"class": "Weapon",
+				"filterParameter": "ImpactClass",
+				"filterValue": "ROCKET",
+				"parameter": "RadiusDamage",
+				"value": 25
+			}
+		],
+		"statID": "Rocket-LtA-T",
+		"subgroupIconID": "IMAGE_RES_GRPDAM",
+		"techCode": 1
+	},
 	"R-Wpn-Rocket06-IDF": {
 		"iconID": "IMAGE_RES_WEAPONTECH",
 		"id": "R-Wpn-Rocket06-IDF",

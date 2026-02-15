@@ -145,7 +145,8 @@ const mis_betaResearchNew = [
 	// sharkmod
 	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket",
 	"R-Wpn-Mortar-Incendiary", "R-Defense-MortarPit-Incendiary",
-	"R-Wpn-Howitzer-Incendiary", "R-Defense-Howitzer-Incendiary"
+	"R-Wpn-Howitzer-Incendiary", "R-Defense-Howitzer-Incendiary",
+	"R-Wpn-Rocket-Damage07", "R-Wpn-Rocket-Damage08"
 ];
 
 //This is used for giving allies in Gamma technology (3-b/3-2/3-c)
@@ -208,7 +209,8 @@ const mis_gammaResearchNew = [
 	// sharkmod
 	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver",
 	"R-Wpn-Cannon6TwinAslt", "R-Defense-Cannon6",
-	"R-Wpn-MG5", "R-Defense-WallTower-TwinAGun"
+	"R-Wpn-MG5", "R-Defense-WallTower-TwinAGun",
+	"R-Wpn-Rocket-Damage09"
 ];
 
 // Below lies all the "Classic" campaign lists. Some are just for documentation purposes
@@ -396,7 +398,8 @@ const mis_betaResearchNewClassic = [
 	// sharkmod
 	"R-Defense-HardcreteGate", "R-Defense-Super-Cannon", "R-Defense-Super-Rocket",
 	"R-Wpn-Mortar-Incendiary", "R-Defense-MortarPit-Incendiary",
-	"R-Wpn-Howitzer-Incendiary", "R-Defense-Howitzer-Incendiary"
+	"R-Wpn-Howitzer-Incendiary", "R-Defense-Howitzer-Incendiary",
+	"R-Wpn-Rocket-Damage07", "R-Wpn-Rocket-Damage08"
 ];
 
 //GAMMA 3-A additional research
@@ -549,7 +552,8 @@ const mis_gammaResearchNewClassic = [
 	// sharkmod
 	"R-Vehicle-Body13", "R-Vehicle-Body14", "R-Defense-Super-Missile", "R-Defense-MassDriver",
 	"R-Wpn-Cannon6TwinAslt", "R-Defense-Cannon6",
-	"R-Wpn-MG5", "R-Defense-WallTower-TwinAGun"
+	"R-Wpn-MG5", "R-Defense-WallTower-TwinAGun",
+	"R-Wpn-Rocket-Damage09"
 ];
 
 // ...
