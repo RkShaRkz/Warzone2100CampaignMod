@@ -9929,7 +9929,7 @@
 		"msgName": "RES_EMP_MSL",
 		"name": "Missile Fortress",
 		"requiredResearch": [
-			"R-Defense-WallUpgrade10",
+			"R-Defense-WallUpgrade08",
 			"R-Wpn-Missile-ROF03"
 		],
 		"researchPoints": 50000,
@@ -9962,9 +9962,8 @@
 		"msgName": "RES_EMP_MD",
 		"name": "Mass Driver Fortress",
 		"requiredResearch": [
-			"R-Wpn-RailGun03",
-			"R-Wpn-Rail-ROF03",
-			"R-Defense-WallUpgrade10"
+			"R-Wpn-Rail-ROF02",
+			"R-Defense-WallUpgrade08"
 		],
 		"researchPoints": 50000,
 		"researchPower": 450,
