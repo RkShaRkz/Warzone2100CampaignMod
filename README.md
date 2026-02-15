@@ -28,3 +28,8 @@ Identical thing applies to the Missile and Railgun Bastions.
 
 In case I missed anything interesting - do open an issue and explain what's missing, or what would you consider an interesting addition
 to the already existing repertoire. 
+
+## Installation
+
+To install the mod, just grab the `Sharkmod.wz` file from the repo and place in `<config folder>/mods/<version>/autoload`.
+E.g. `C:\Users\Shark\AppData\Roaming\Warzone 2100 Project\Warzone 2100\mods\4.6.1\autoload`
