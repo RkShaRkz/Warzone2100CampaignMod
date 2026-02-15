@@ -1,4 +1,4 @@
-Warzone2100 multiplayer-exclusive content to singleplayer vanilla campaign
+# Warzone2100 multiplayer-exclusive content to singleplayer vanilla campaign
 
 
 This mod just brings over necessary techs and stuff from mp.wz and mixes them from the existing stuff in base.wz
@@ -21,8 +21,10 @@ The so-called "rebalancing" has only to do with the super heavy bodies, so that 
 All of these values were looked at from a `Tracks + <body> + Gun (Heavy cannon)` perspective. But the new weapons had to be rebalanced
 since multiplayer values seem to be both too cheap and much much stronger than singleplayer (campaign) values.
 
-**Disclaimer:** Currently, the Wyvern and Dragon superbodies can be expected in the 2nd half of the very last level :( and by the time
-their literally-longest-possible research is done, they will likely see zero action in the whole campaign. Identical thing applies to
-the Missile and Railgun Bastions.
+### **Disclaimer:**
+Currently, the Wyvern and Dragon superbodies can be expected to become researchable in the 2nd half of the very last level :(
+and by the time their literally-longest-possible research is done, they will likely see zero action in the whole campaign.
+Identical thing applies to the Missile and Railgun Bastions.
 
-In case I missed anything interesting - do open an issue and explain what's missing.
+In case I missed anything interesting - do open an issue and explain what's missing, or what would you consider an interesting addition
+to the already existing repertoire. 
